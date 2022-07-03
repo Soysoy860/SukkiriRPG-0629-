@@ -1,0 +1,40 @@
+ゼルダ作ろう！
+時間作る？
+朝夜
+夜になると、敵の攻撃が強くなる
+heroとか魔法使いの火力にランダムつける
+
+
+Heroクラス
+hp
+mp
+weapon - sword 継承？
+item
+
+******attack rest run 
+
+
+
+Wizard
+hp
+mp
+weapon - wand　継承？
+item
+*******attack heal rest run
+
+Monster
+
+hp
+power
+abstract attack()
+abstract run()
+
+Gobrin
+*****attack run継承
+
+
+BigGobrin
+ゴブリンの攻撃superしてさらに攻撃
+
+Rizard
+*****attack run継承
